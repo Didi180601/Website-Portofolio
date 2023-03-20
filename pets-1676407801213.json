@@ -1,0 +1,33 @@
+[
+    
+  {
+    "color": "white",
+    "type": "chicken",
+    "size": "",
+    "name": "Bella"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "budi"
+  },
+  {
+    "color": "gray",
+    "type": "cockatiel",
+    "size": "nano",
+    "name": "Diva"
+  },
+  {
+    "color": "white",
+    "type": "chicken",
+    "size": "nano",
+    "name": "Cluck Vader"
+  },
+  {
+    "color": "yellow",
+    "type": "rubber-duck",
+    "size": "nano",
+    "name": "Uno"
+  }
+]
